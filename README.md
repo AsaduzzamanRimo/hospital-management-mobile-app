@@ -5,7 +5,7 @@
 
 
 >
-> Note ⚠️ : you can see a quick demo in screenshots dir .. 
+> Note  : you can see a quick demo in screenshots dir .. 
 >
 
 
