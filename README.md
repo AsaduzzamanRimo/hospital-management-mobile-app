@@ -13,7 +13,5 @@
 
 https://github.com/AsaduzzamanRimo/hospital-management-mobile-app/blob/main/screenshots/0.demo.gif
 
-  (screenshots/0.demo.gif)
-  
 
 
